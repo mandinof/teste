@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1
+https://stream.surftotal.com/portugal/matosinhos/main_stream.m3u8?
